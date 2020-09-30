@@ -8,3 +8,7 @@ The list displays the important data structure that should be learnt for competi
 7. Binary Search Tree
 8. Graphs
 32.graphical area
+9. Union find
+10.weighted union find
+11.Union find with path compression
+12.Weighted union find with path compression
