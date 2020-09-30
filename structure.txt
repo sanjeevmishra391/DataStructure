@@ -1,0 +1,9 @@
+The list displays the important data structure that should be learnt for competitive programming:
+1. Arrays
+2. Pointers
+3. Linked list
+4. Stacks
+5. Queues
+6. Trees
+7. Binary Search Tree
+8. Graphs
