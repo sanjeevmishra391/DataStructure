@@ -36,11 +36,8 @@ int main()
 
 
 
-    third->data = 3;
+    third->data = 4;
     third->nxt = NULL;
-
-
-
     return 0;
     //please add this pr
 }
