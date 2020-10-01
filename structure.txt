@@ -2,9 +2,16 @@ The list displays the important data structure that should be learnt for competi
 1. Arrays
 2. Pointers
 3. Linked list
+a)Singly Linked List
+b)Doubly Linkly List
+c)Circular Linked List
 4. Stacks
 5. Queues
+a)Circular Queues
+b)Priority Queues
 6. Trees
+A)B-Trees
+B)AVL Trees
 7. Binary Search Tree
 8. Graphs
 32.graphical area
