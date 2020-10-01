@@ -25,17 +25,17 @@ int main()
 
     head->data = 1;
     head->nxt = second;
+//<<<<<<< hello
 
 
 
 
-    second->data = 5;
 
 
+
+    second->data = 2;
+//>>>>>>> master
     second->nxt = third;
-
-
-
     third->data = 4;
     third->nxt = NULL;
     return 90;
