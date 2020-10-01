@@ -25,17 +25,8 @@ int main()
 
     head->data = 1;
     head->nxt = second;
-
-
-
-
     second->data = 2;
-
-
     second->nxt = third;
-
-
-
     third->data = 4;
     third->nxt = NULL;
     return 0;
