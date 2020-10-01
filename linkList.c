@@ -6,7 +6,10 @@ struct new_node {
     struct new_node* nxt;
 };
 
+//<<<<<<< master
 //main coding part
+//Main method srarts
+//>>>>>>> master
 int main()
 { 
     struct new_node* head = NULL;
@@ -17,7 +20,7 @@ int main()
     head = (struct new_node*)malloc(sizeof(struct new_node));
     second = (struct new_node*)malloc(sizeof(struct new_node));
     third = (struct new_node*)malloc(sizeof(struct new_node));
-
+    
 
 
     head->data = 1;
