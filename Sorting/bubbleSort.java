@@ -3,7 +3,8 @@ package Sorting;
 import java.util.Scanner;
 public class bubbleSort {
 	public static void main(String args[])
-	{
+{
+		try{
 		Scanner sc = new Scanner(System.in);
 		int i,j,temp,n=5;
         int a[] = new int[n];
@@ -23,9 +24,11 @@ public class bubbleSort {
                 }
             }
         }
+				System.out.println("sorted array");
         for(i=0;i<n;i++)
         {
         	System.out.print(a[i]+" ");
         }
-	}
+	}catch(Exception e){};
+}
 }
