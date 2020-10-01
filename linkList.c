@@ -25,10 +25,19 @@ int main()
 
     head->data = 1;
     head->nxt = second;
+//<<<<<<< hello
+
+
+
+
+
+
+
     second->data = 2;
+//>>>>>>> master
     second->nxt = third;
     third->data = 4;
     third->nxt = NULL;
-    return 0;
-    //please add this pr
+    return 90;
+    //please add this pr toooooooooo
 }
