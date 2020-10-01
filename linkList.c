@@ -29,7 +29,7 @@ int main()
 
 
 
-    second->data = 2;
+    second->data = 5;
 
 
     second->nxt = third;
@@ -38,6 +38,6 @@ int main()
 
     third->data = 4;
     third->nxt = NULL;
-    return 0;
-    //please add this pr
+    return 90;
+    //please add this pr toooooooooo
 }
