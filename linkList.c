@@ -1,12 +1,15 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+// defining the structure
 struct new_node {
     int data;
     struct new_node* nxt;
 };
 
+//<<<<<<< master
+//main coding part
 //Main method srarts
+//>>>>>>> master
 int main()
 { 
     struct new_node* head = NULL;
@@ -39,4 +42,5 @@ int main()
 
 
     return 0;
+    //please add this pr
 }
